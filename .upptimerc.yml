@@ -39,9 +39,10 @@ status-website:
   cname: status.voxhost.fr
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Voxhost Update
   introTitle: "**Voxhost**"
   introMessage:
+  theme: night
   navbar:
     - title: Status
       href: /
