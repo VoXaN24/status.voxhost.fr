@@ -5,12 +5,18 @@ repo: status.voxhost.fr # The name of this repository
 sites:
   - name: Voxhost (Main Website)
     url: https://voxhost.fr
+    expectedStatusCodes:
+      - 503
   - name: Voxhost (Drive)
     url: https://drive.voxhost.fr
+    expectedStatusCodes:
+      - 503
   - name: Voxhost (Pastebin)
     url: https://paste.voxhost.fr
   - name: PCArchive
     url: https://pcarchive.fr
+    expectedStatusCodes:
+      - 503
   - name: Personnal Website
     url: https://valentinslr.com
   - name: Blog
