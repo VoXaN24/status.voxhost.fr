@@ -19,7 +19,7 @@ sites:
     url: https://sharex.voxhost.fr
   - name: Speedtest (Ookla)
     url: speedtest.voxhost.fr
-    port: 80
+    port: 8080
   - name: Speedtest (Nperf)
     url: speedtest-nperf.voxhost.fr
 
