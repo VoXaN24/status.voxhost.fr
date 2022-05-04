@@ -35,7 +35,7 @@ sites:
   - name : Shorter URL
     url : https://link.voxhost.fr
     expectedStatusCodes:
-      - 403
+      - 503
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
