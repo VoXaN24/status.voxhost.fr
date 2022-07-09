@@ -36,7 +36,7 @@ sites:
     url : https://link.voxhost.fr
     expectedStatusCodes:
       - 503
-  - name : Shorter URL
+  - name : PVE (IPv6)
     url : https://pve1.voxhost.fr:8006
 
 status-website:
