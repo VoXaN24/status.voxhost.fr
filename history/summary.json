@@ -171,7 +171,7 @@
     "slug": "share-x",
     "status": "up",
     "uptime": "41.66%",
-    "uptimeDay": "5.85%",
+    "uptimeDay": "5.87%",
     "uptimeWeek": "0.84%",
     "uptimeMonth": "1.57%",
     "uptimeYear": "41.66%",
@@ -317,18 +317,18 @@
     "icon": "https://favicons.githubusercontent.com/pve1.voxhost.fr",
     "slug": "pve-i-pv6",
     "status": "down",
-    "uptime": "1.86%",
-    "uptimeDay": "1.86%",
-    "uptimeWeek": "1.86%",
-    "uptimeMonth": "1.86%",
-    "uptimeYear": "1.86%",
+    "uptime": "1.22%",
+    "uptimeDay": "1.22%",
+    "uptimeWeek": "1.22%",
+    "uptimeMonth": "1.22%",
+    "uptimeYear": "1.22%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-09": 0
+      "2022-07-09": 1
     }
   }
 ]
