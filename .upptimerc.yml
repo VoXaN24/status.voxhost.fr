@@ -36,6 +36,8 @@ sites:
     url : https://link.voxhost.fr
     expectedStatusCodes:
       - 503
+  - name : Shorter URL
+    url : https://pve1.voxhost.fr:8006
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
